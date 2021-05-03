@@ -30,7 +30,7 @@
     "server-name": "bash-language-server",
     "server-url": "https://github.com/mads-hartmann/bash-language-server",
     "installation": "npm i -g bash-language-server",
-    "lsp-install-server": "bash",
+    "lsp-install-server": "bash-ls",
     "debugger": "Not available"
   },
   {
@@ -556,6 +556,14 @@
     "server-url": "https://github.com/sveltejs/language-tools",
     "installation": "npm i -g svelte-language-server",
     "lsp-install-server": "svelte-ls",
+    "debugger": "Not available"
+  },
+  {
+    "name": "svlangserver",
+    "full-name": "Verilog/SystemVerilog",
+    "server-name": "svlangserver",
+    "server-url": "https://github.com/imc-trading/svlangserver",
+    "installation-url": "https://github.com/imc-trading/svlangserver#installation",
     "debugger": "Not available"
   },
   {
